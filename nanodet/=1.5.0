@@ -1,0 +1,8 @@
+Collecting scipy
+  Downloading scipy-1.13.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.6/60.6 kB 1.4 MB/s eta 0:00:00
+Requirement already satisfied: numpy<2.3,>=1.22.4 in /home/sirund/.pyenv/versions/3.10.14/lib/python3.10/site-packages (from scipy) (1.22.4)
+Downloading scipy-1.13.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (38.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 38.6/38.6 MB 4.1 MB/s eta 0:00:00
+Installing collected packages: scipy
+Successfully installed scipy-1.13.1
